@@ -1,7 +1,9 @@
 # Meipaly — Smart Web Design Agency
 
 Meipaly is a responsive, single-page landing website for a fictional digital design agency. It is built with plain HTML, CSS, and jQuery, and showcases services, a portfolio gallery, animated statistics, an embedded video, and a contact section with an embedded map.
+
 [Live Demo](https://dat532006.github.io/Meipaly/)
+
 This project was built with **Nguyễn Đức Đạt**.
 
 ## Demo Sections
